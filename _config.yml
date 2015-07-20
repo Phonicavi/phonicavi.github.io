@@ -12,8 +12,7 @@ url:
 owner:
   name:           QIU Feng(Phonic)
   avatar:         avatar_hd.jpg
-  bio:            “This is Phonic from Shanghai. 
-Really hope you enjoy my blogs:b”
+  bio:            “This is Phonic from Shanghai. Really hope you enjoy my blogs.”
   email:          seb7phonic@outlook.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        seb7phonic
@@ -37,7 +36,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Shanghai
 future:      true
 highlighter: pygments
 markdown:    kramdown
