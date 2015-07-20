@@ -11,16 +11,16 @@ url:
 # Owner/author information
 owner:
   name:           QIU Feng(Phonic)
-  avatar:         avatar.jpg
+  avatar:         avatar_hd.jpg
   bio:            “This is Phonic from Shanghai. Really hope you enjoy my blogs:b”
   email:          seb7phonic@outlook.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        https://twitter.com/seb7phonic
-  facebook:       https://www.facebook.com/profile.php?id=100004371887037
-  github:         https://github.com/Phonicavi
+  twitter:        seb7phonic
+  facebook:       profile.php?id=100004371887037
+  github:         Phonicavi
   stackexchange:  
-  linkedin:       https://www.linkedin.com/profile/view?id=408006579&trk=nav_responsive_tab_profile_pic
-  instagram:      https://instagram.com/phonicavi/
+  linkedin:       profile/view?id=408006579&trk=nav_responsive_tab_profile_pic
+  instagram:      phonicavi
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
