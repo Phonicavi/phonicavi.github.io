@@ -12,23 +12,23 @@ url:
 owner:
   name:           QIU Feng(Phonic)
   avatar:         avatar_hd.jpg
-  bio:            “This is Phonic from Shanghai. Really hope you enjoy my blogs:b”
+  bio:            “This is Phonic from Shanghai. 
+Really hope you enjoy my blogs:b”
   email:          seb7phonic@outlook.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        seb7phonic
   facebook:       profile.php?id=100004371887037
   github:         Phonicavi
   stackexchange:  
-  linkedin:       profile/view?id=408006579&trk=nav_responsive_tab_profile_pic
+  linkedin:       408006579
   instagram:      phonicavi
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    +111343692368280096659
 
 # Background image to be tiled on all pages
-background: 
-# night.jpg
+background:  night.jpg
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
