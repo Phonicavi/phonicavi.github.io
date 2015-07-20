@@ -24,7 +24,7 @@ owner:
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +111343692368280096659
+  google_plus:    +111343692368280096659/posts
 
 # Background image to be tiled on all pages
 background:  night_river.png
