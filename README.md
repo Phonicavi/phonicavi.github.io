@@ -1,29 +1,35 @@
 # phonicavi.github.io
-github blogs
+
+## GitHub Blogs
 
 Hi, this is QIU Feng and you can call me Phonic for short.
 Now I live in Shanghai, China. I'm a sophomore that majored in Electronic Engineering and Computer Science (EECS) at Shanghai Jiao Tong University.
 
-Research Experience:
-2014
-Participation in Research Program(PRP) in wireless sensor network(WSN) and NS2 simulation
-broadcast authentication protocol in ad-hoc network and hierachical encryption for mobile devices
-php web server for sensor network
-2015
-optimization for multicast scheduling with caching and network coding
+# Research Experience:
 
-Recent Works:
-database
-iOS development
+## 2014
+* Participation in Research Program(PRP) in wireless sensor network(WSN) and NS2 simulation
+* Broadcast authentication protocol in ad-hoc network and hierachical encryption for mobile devices
+* PHP web server for sensor network
 
+## 2015
 
-Hobbies:
-reading, playing basketball
-guitar player
-effects pedal geek and ambient-music lover
+* Optimization for multicast scheduling with caching and network coding
+
+# Recent Works:
+
+* Database
+* iOS development
 
 
-# Original 'README.md' from Jekyll templates
+# Hobbies:
+* Reading, playing basketball
+* Guitar player
+* Effects pedal geek and ambient-music lover
+
+
+//Original 'README.md' from Jekyll templates
+
 # HPSTR Jekyll Theme
 
 They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing [my first two themes](https://mademistakes.com/work/jekyll-themes/), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory.
