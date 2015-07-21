@@ -1,4 +1,4 @@
-title:            Always Create Miracles
+title:            Always Creates Miracles
 description:      Hi, this is Phonicavi’s blogs supported by GitHub.
 disqus_shortname: Phonic
 reading_time:     true
@@ -6,12 +6,13 @@ words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url:  
+# http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           QIU Feng(Phonic)
+  name:           QIU Feng (Phonic)
   avatar:         avatar_hd.jpg
-  bio:            “This is Phonic from Shanghai. Really hope you enjoy my blogs.”
+  bio:            “This is Phonic from Shanghai.\n Really hope you enjoy my blogs.”
   email:          seb7phonic@outlook.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        phonicavi
@@ -28,7 +29,7 @@ owner:
 # +111343692368280096659
 
 # Background image to be tiled on all pages
-background:  icon.png
+background:  background.jpg
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
